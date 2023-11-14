@@ -1,3 +1,9 @@
+# docker - install
+
+1. https://www.docker.com/get-started/
+   ![다운로드](https://github.com/JangIkIk/React/assets/108041161/37dc760b-2a06-4fae-a142-f6f54b76b04d)
+
+
 # React - Express - mysql(phpMyAdmin)
 
 ## frontend -> npm run start
