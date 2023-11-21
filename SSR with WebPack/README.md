@@ -6,8 +6,8 @@
 
   
 - 참고한 문서들
-https://nodejs.org/api/path.html#pathdirnamepath : path.dirname(path)
-https://nodejs.org/api/url.html#urlfileurltopathurl : url.pathToFileURL(path)
-https://reactrouter.com/en/main/router-components/static-router : static-router
-https://www.npmjs.com/package/ts-node-dev : ts-node-dev(npm)
-https://www.npmjs.com/package/ts-node#esm : ts-node(mpm)
+https://nodejs.org/api/path.html#pathdirnamepath : path.dirname(path)  
+https://nodejs.org/api/url.html#urlfileurltopathurl : url.pathToFileURL(path)  
+https://reactrouter.com/en/main/router-components/static-router : static-router  
+https://www.npmjs.com/package/ts-node-dev : ts-node-dev(npm)  
+https://www.npmjs.com/package/ts-node#esm : ts-node(mpm)  
