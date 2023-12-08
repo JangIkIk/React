@@ -18,6 +18,8 @@ function App() {
     axios.get(`http://${process.env.REACT_APP_API_KEY}`)
     .then( res => setData(res.data))
     .catch( (err) => console.error(err));
+
+    fetch("http://localhost:4000/users/location-registration", {"method":"DELETE"})
   },[])
 
   return (
